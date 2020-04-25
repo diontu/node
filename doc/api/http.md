@@ -44,7 +44,7 @@ list like the following:
   'content-type', 'text/plain',
   'CONNECTION', 'keep-alive',
   'Host', 'mysite.com',
-  'accepT', '*/*' ]
+  'accept', '*/*' ]
 ```
 
 ## Class: `http.Agent`
